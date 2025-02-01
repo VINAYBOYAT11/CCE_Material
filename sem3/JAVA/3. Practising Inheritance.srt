@@ -1,0 +1,295 @@
+1
+00:00:00,690 --> 00:00:03,570
+In this video, we will practically see inheritance.
+
+2
+00:00:04,470 --> 00:00:10,560
+I have to give an example of Circle and Selander, so already I have a class full circle here which
+
+3
+00:00:10,560 --> 00:00:14,700
+is having a property radius and three met her father ADR.
+
+4
+00:00:15,810 --> 00:00:19,170
+Then perimeter and circumference.
+
+5
+00:00:20,140 --> 00:00:24,790
+I have not read anything constructor in this class, but I mean, the property is public so that we
+
+6
+00:00:24,790 --> 00:00:25,990
+can directly access it.
+
+7
+00:00:26,680 --> 00:00:29,650
+We will be discussing about the constructor's in the next menials.
+
+8
+00:00:29,890 --> 00:00:31,260
+So the total goes to.
+
+9
+00:00:31,370 --> 00:00:35,510
+Tell me, have a class called certain knowledge does achieve inheritance.
+
+10
+00:00:36,310 --> 00:00:36,480
+No.
+
+11
+00:00:36,490 --> 00:00:38,350
+Let us see an example of inheritance.
+
+12
+00:00:38,500 --> 00:00:43,420
+I a like class four cylinder that extends.
+
+13
+00:00:44,850 --> 00:00:45,390
+Circle.
+
+14
+00:00:46,600 --> 00:00:52,840
+So this class will get all the features of our circle class means that the property and all these materials
+
+15
+00:00:52,840 --> 00:00:56,170
+are available inside the cylinder class also.
+
+16
+00:00:56,440 --> 00:00:59,920
+And because all of them are public, they are also accessible.
+
+17
+00:01:00,990 --> 00:01:03,470
+All cylinders should also have its own properties.
+
+18
+00:01:03,520 --> 00:01:05,110
+So I will declare properties.
+
+19
+00:01:06,480 --> 00:01:09,600
+So the property's height, so to make a death double.
+
+20
+00:01:12,380 --> 00:01:15,830
+There's only one method I will vote on that is from volume to calculate volume.
+
+21
+00:01:16,910 --> 00:01:18,590
+So whole volume is calculated.
+
+22
+00:01:18,920 --> 00:01:23,240
+It will return area multiplied by pite.
+
+23
+00:01:26,010 --> 00:01:31,680
+See, I'm able to call this maturity Yamit hard because this area mutatis present an inside cylinder
+
+24
+00:01:31,680 --> 00:01:35,000
+glass also because it is boring it from circle class.
+
+25
+00:01:35,430 --> 00:01:41,670
+So this idea multiplied by height does is sufficient to look at the demonstration?
+
+26
+00:01:42,080 --> 00:01:48,390
+No, I will create the object of cylinder glass and I will call volume method and I will show you inside
+
+27
+00:01:48,400 --> 00:01:57,810
+mean matured create an object of cylinder glass, see a sign new cylinder is created.
+
+28
+00:01:58,500 --> 00:02:00,760
+Now I should initialize the properties.
+
+29
+00:02:00,810 --> 00:02:06,750
+So Cylinder's Radiuses seven and Cylinder's hiatus.
+
+30
+00:02:07,790 --> 00:02:16,790
+Then next, I will display volume of a cylinder she got will you let us run it?
+
+31
+00:02:19,210 --> 00:02:20,740
+Yes, I got the volume here.
+
+32
+00:02:21,110 --> 00:02:22,540
+That is fifteen.
+
+33
+00:02:22,570 --> 00:02:24,140
+Thirty nine is the volume.
+
+34
+00:02:25,300 --> 00:02:26,910
+I will call Eddie, I'm a third also.
+
+35
+00:02:27,670 --> 00:02:31,690
+So here I will give a label that is volume.
+
+36
+00:02:32,600 --> 00:02:39,930
+Then after this, I will call Ethereum a Tuttle's printing C dot India.
+
+37
+00:02:40,480 --> 00:02:41,260
+Let us run it.
+
+38
+00:02:42,870 --> 00:02:46,440
+Yes, I got volume as well as area of cylinder.
+
+39
+00:02:48,400 --> 00:02:54,130
+I will enter and debug more and show you how this is working, because this area matters present inside
+
+40
+00:02:54,130 --> 00:02:56,740
+circle class legacy, what is really happening?
+
+41
+00:02:57,520 --> 00:03:03,900
+I'll put a break point here, then I will enter and go debug mode, press seven.
+
+42
+00:03:04,460 --> 00:03:05,530
+Then again at seven.
+
+43
+00:03:06,100 --> 00:03:08,380
+Now you can see the value of radius radiuses seven.
+
+44
+00:03:08,380 --> 00:03:09,780
+And the value of high distance.
+
+45
+00:03:11,320 --> 00:03:17,440
+If I go up into the glasses and highlight this radius, it's not showing anything because this code
+
+46
+00:03:17,470 --> 00:03:18,850
+is not yet active now.
+
+47
+00:03:19,540 --> 00:03:27,380
+And Cylinder Morwood is also not showing anything can let us enter into this Cedartown volume matter.
+
+48
+00:03:28,060 --> 00:03:33,100
+So if I press S7, it will enter into print and so I should press shift F seven.
+
+49
+00:03:33,700 --> 00:03:35,420
+So it will enter into volume Atun.
+
+50
+00:03:36,040 --> 00:03:38,950
+Yes, it is calling volume a total four cylinder class.
+
+51
+00:03:39,040 --> 00:03:45,610
+And if I put a cursor on heighted assuring 10 and garcelon radius it is showing seven, she one of the
+
+52
+00:03:45,610 --> 00:03:47,900
+matter of this class is being used now.
+
+53
+00:03:47,950 --> 00:03:50,610
+So it is showing this properties with some values.
+
+54
+00:03:51,690 --> 00:03:53,330
+So while you morsal in this car.
+
+55
+00:03:54,720 --> 00:03:55,590
+So let us move next.
+
+56
+00:03:55,710 --> 00:03:56,650
+I'm on this line.
+
+57
+00:03:56,760 --> 00:03:57,580
+That's S7.
+
+58
+00:03:58,380 --> 00:04:04,560
+No, you can see that area Methode of the circle is called because from this volume, Matari was calling.
+
+59
+00:04:04,560 --> 00:04:09,030
+Edith thought of finding the area, then multiplied by height F seven.
+
+60
+00:04:09,590 --> 00:04:10,680
+Now back to William.
+
+61
+00:04:12,050 --> 00:04:16,650
+Back to main method next, I will enter into a.D.A method.
+
+62
+00:04:17,270 --> 00:04:21,810
+So shift F seven, who it is calling area method of a circle.
+
+63
+00:04:22,310 --> 00:04:24,890
+Yes, because that is the only area method we have.
+
+64
+00:04:25,110 --> 00:04:25,490
+See.
+
+65
+00:04:25,940 --> 00:04:31,730
+I am calling it turn up on a cylinder because I have a reference of cylinder, an object of cylinder.
+
+66
+00:04:31,790 --> 00:04:38,720
+So when I see a seat or area than the area of a circle matre this car so that this, we can understand
+
+67
+00:04:38,720 --> 00:04:43,140
+that this, the cylinder class is boring the features of a circle class.
+
+68
+00:04:43,160 --> 00:04:46,040
+It is boring all the properties and methods.
+
+69
+00:04:46,580 --> 00:04:47,730
+So that's all in this video.
+
+70
+00:04:47,750 --> 00:04:51,380
+I have given Valon the example for a circle and Selander then.
+
+71
+00:04:51,530 --> 00:04:55,360
+Now rest of the examples I will give them as a student exercises.
+
+72
+00:04:55,790 --> 00:04:58,330
+So following me, those will be on in exercises.
+
+73
+00:04:58,940 --> 00:05:00,480
+So you complete ludic situs.
+
+74
+00:05:01,100 --> 00:05:01,480
+That's a.
